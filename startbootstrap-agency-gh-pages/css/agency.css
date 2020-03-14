@@ -227,6 +227,10 @@ header.masthead .intro-text .intro-heading {
   }
 }
 
+p.text-muted {
+  color: rgb(255, 252, 61);
+}
+
 section#air {
   text-align: center;
   color: white;
